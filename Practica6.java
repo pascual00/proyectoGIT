@@ -36,6 +36,10 @@ public class Practica6 {
 				resultado = operando1 / operando2;
 				System.out.print(" El resultado es " + resultado + "\n");
 				break;
+			case 5 :
+				resultado = operando1 % operando2;
+				System.out.print(" El resultado es " + resultado + "\n");
+				break;
 			default: 
 				System.out.print("Valor incorrecto\n");		
 		} 
