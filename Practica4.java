@@ -31,6 +31,7 @@ public class Practica4 {
 		} else {
 
 			System.out.print("Incorrecto\n");
+			
 
 		}
 	}
